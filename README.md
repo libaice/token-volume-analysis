@@ -5,6 +5,10 @@ todolist  token holder list
 
 
 
+* get token name / symbol by token address
+* 
+
+
 
 ---
 tools:
